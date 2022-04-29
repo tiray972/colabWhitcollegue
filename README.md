@@ -1,1 +1,2 @@
-try npm run watch
+commande : 
+npm run watch
