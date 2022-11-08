@@ -68,4 +68,8 @@ element.addEventListener('click',() {
   element.classList.add('Nom dans le css') //add remove or toggle
 });
 ```
-
+```
+window.addEventListener('mousemove',(e) =>{
+  console.log(e);
+});
+```
