@@ -56,4 +56,5 @@ ___type de fonction___
   console.log('fonction flecher qui sappele seule');
 })();
 ```
-
+### DOM 
+#### 
