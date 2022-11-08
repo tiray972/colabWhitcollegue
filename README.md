@@ -15,8 +15,20 @@ var valeurVariable = "string"
 <= ou>=;
 comparatif;
 == (egale sans le type ex:'4'==4=true );
-== (egale avec le type ex:'4'=+=4=false );
+=== (egale avec le type ex:'4'===4=false );
 typeof
+```
+### condition
+```
+if (x===y) cosole.log('yo');
+if (x===y) {
+  cosole.log('yo');
+};
+```
+
+### toner
+```
+x === y ? cosole.log('cest vrai') : cosole.log('cest faux');
 ```
 
 ### Fonction
