@@ -57,4 +57,12 @@ ___type de fonction___
 })();
 ```
 ### DOM 
-#### 
+#### Adenvent listener
+```
+const element =document.querySelector('.class');
+element.addEventListener('click',() {
+  // element.style.backgroud='red';
+  element.classList.add('Nom dans le css')
+});
+```
+
