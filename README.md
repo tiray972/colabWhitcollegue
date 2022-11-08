@@ -60,9 +60,12 @@ ___type de fonction___
 #### Adenvent listener
 ```
 const element =document.querySelector('.class');
+const button =document.querySelector('#ID1');
+const botton = document.getElementById('id-2');
+
 element.addEventListener('click',() {
   // element.style.backgroud='red';
-  element.classList.add('Nom dans le css')
+  element.classList.add('Nom dans le css') //add remove or toggle
 });
 ```
 
