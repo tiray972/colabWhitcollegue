@@ -6,6 +6,19 @@ Le language de progamation web font-end pourvons etre injecter directement dans 
 conts ValeurConstante = "string"
 var valeurVariable = "string"
 ```
+### les operateur 
+```
+|| =ou ;
+&&=et;
+=et < pluspetit que ;
+>plus grnd que ;
+<= ou>=;
+comparatif;
+== (egale sans le type ex:'4'==4=true );
+== (egale avec le type ex:'4'=+=4=false );
+typeof
+```
+
 ### Fonction
 ___structure fonction___
 ```
